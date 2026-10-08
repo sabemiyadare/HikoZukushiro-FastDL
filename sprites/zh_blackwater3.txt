@@ -1,6 +1,0 @@
-5
-weapon   		640 zhero/blackwaterhud 0 	0 	170 	45
-weapon_s 		640 zhero/blackwaterhud 0 	45 	170 	45
-ammo     		640 zhero/blackwaterhud 1 	231 	24 	24
-ammo2    		640 zhero/blackwaterhud 25 	231 	24 	24
-kill     		640 zhero/blackwaterhud 172 	0 	48 	16
