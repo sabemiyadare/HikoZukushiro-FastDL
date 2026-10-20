@@ -20,8 +20,8 @@ models/player/Rabbit_girl/Rabbit_girl.mdl
 models/player/comet_cs/comet_cs.mdl
 models/player/combine_assasin/combine_assasin.mdl
 models/player/cso_light_human/cso_light_human.mdl
-models/player/dfcs_user/dfcs_user.mdl
-models/player/dfcs_user1/dfcs_user1.mdl
+models/player/blondie_leet/blondie_leet.mdl
+models/player/donald/donald.mdl
 models/player/konata_shng/konata_shng.mdl
 models/player/kumi_hikaru/kumi_hikaru.mdl
 models/player/miku_hostage/miku_hostage.mdl

@@ -5,4 +5,5 @@
 /////////////////////////////////////////////////////////////
 // zm_militia.res
 // Created: GMT 2010-11-14 19:45:41
-
+models/player/blondie_leet/blondie_leet.mdl
+models/player/donald/donald.mdl
