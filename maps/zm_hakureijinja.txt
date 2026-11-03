@@ -1,0 +1,13 @@
+zm_hakureijinja - Zombie Mod
+original map by GreenTea for Sven-Coop (Touhou_Hakureijinja)
+CS 1.6 Zombie Mod conversion by H1k0Pwn5j00 (Hiko Zukushiro)
+
+Various humans from Gensokyo had fled to the Hakurei Shrine in order to survive the zombie apocalypse,
+but little do they know that Hakurei Reimu and Marisa Kirisame aren't there to help them, so they
+are forced to survive on their own.
+
+Humans: Survive the zombie apocalypse until the timer runs out, or kill all the zombies. (You should already know this by know)
+
+Zombies: Infect all of the humans to zombify the entirety of Hakurei Shrine, duh!
+
+Map dedicated to all Anime, Touhou, Counter-Strike, and Zombie Plague fans.
