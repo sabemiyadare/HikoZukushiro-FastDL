@@ -1,8 +1,9 @@
-Vegas 32 - Defusion
+Vegas (Hiko Edition) - Defusion
 By +Cadaver+ (cadaver@planethalflife.com)
 Textures by George_Pooshoes 
 (pooshoes@mapcore.com)
 And by JOeSmOe (joesmoe@home.com)
+Modified by H1k0Pwn5j00 (Hiko Zukushiro)
 
 Counter-Terrorists: Infiltrate the Hax0r
 Complex and secure the bomb targets. 
