@@ -1,0 +1,15 @@
+Japan - Hostage Rescue
+Map author is unknown
+32 player slot edit by H1k0Pwn5j00 (Hiko Zukushiro)
+
+Counter-Terrorists: Rescue the hostages. 
+Take out the Terrorists without jeopardizing 
+the hostages.
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages.
+
+Other Notes: There are 4 hostages in 
+the mission. 
+
+(Press FIRE to continue)
