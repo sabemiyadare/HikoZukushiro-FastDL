@@ -1,0 +1,95 @@
+===========================================================
+CS_JAPANSION v1.0
+by Koekto3D <koekto3d@yandex.ru>
+32 player slots edit by H1k0Pwn5j00 (Hiko Zukushiro)
+===========================================================
+
+A team of terrorists has taken hostage a famous scientist
+with two his assistants in his japanese-style residence.
+Probably they want to force them to make some sort of
+really nasty bomb, or something like that...
+
+Counter-Terrorists: 
+    Rescue the Wise Guys!
+
+Terrorists:
+    Defend the hostages at all cost,
+    don't let CTs to get them away!
+
+Map Information
+===============
+
+Compile time:
+    22 minutes VIS + 7 minutes RAD on my overclocked Athlon XP 1700
+
+Tools used:
+    Valve Hammer Editor     v3.4
+    Zoner's Half-Life Tools v2.5.3
+
+Skymap:
+    The map uses skymap named "Carnival" (not included).
+
+Waypoints:
+Overview:
+    None. :-(
+
+Spawn points:
+    Up to 12 CTs & 12 Ts,
+    although we play it 5x5 on our LAN
+
+Based on:
+    cs_mansion
+
+Send your comments to my email: koekto3d@yandex.ru
+
+Or visit my web page at: http://koekto3d.narod.ru
+
+History
+=======
+
+    This map was created in autumn-2002, shortly after release
+    of two great games, Hitman 2 and N.O.L.F. 2, as you know
+    there are "japanese" levels in both of them.
+    (And later, there was a japanese level in that 007:Nightfire
+    piece of crap... What a coincidence, hmmm... :-)
+
+    Most of the map was built in about one week, then there was
+    about a month of playtesting & fixing things.
+    Then it was abandoned for quite a long time...
+
+>>> 29-Sep-2003:
+    Moved some brushes, changed some textures, added/removed some
+    entities... Fixed (at last!) the last two major bugs, now the
+    map is ready!
+
+Map features
+============
+
+    - very good looking (IMHO ;), especially considering filesize
+    - well known "mansion"-like layout
+    - CTs can get onto the wall using ladder
+    - CTs can get into the house by many ways
+    - CTs and Ts can walk on the 1st level roof,
+      and shoot enemies from outside!
+    - many walls are thin enough to shoot through
+    - crickets stop "singing" if they feel someone near them
+    - Ts can turn off the light to ambush CTs in the house
+    - Ts can hide in the wardrobe in the dark room
+    - Ts can hide in the big box on the 1st floor to control the tunnel exit
+    - Ts can hide in the water basin
+    
+Known bad things
+================
+
+    - r_speeds > 1400 at CT start
+        (although it's not a problem with a modern GeForce-level cards...
+        it even runs quite acceptable on our Cel-733/Vanta 8MB machines ;-)
+    - sliding main doors looks bad from the distance
+    - ligts on the stairs can't be turned off
+        ("too many lights" error - limitations of the HL engine)
+    - lack of furniture in the house
+        (I removed some things to improve r_speeds)
+    - ridiculous transparent (destructible) panels in the "dojo"
+        (engine limitations, again)
+        
+(Are you still reading this? Wow...:)
